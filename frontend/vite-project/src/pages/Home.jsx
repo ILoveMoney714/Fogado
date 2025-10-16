@@ -16,6 +16,7 @@ function Home() {
             <div className='fej'>
                 <Header />
             </div>
+            <br />
         <div className="container">
           <div className="row">
             <div className="col-md-4 col-sm-6 napraforgo">

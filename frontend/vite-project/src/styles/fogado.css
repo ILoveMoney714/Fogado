@@ -5,7 +5,7 @@ body{
 .bg-fej {
   background-position: center;
   height: 400px;
-
+  width: 100% ;
 }
 
 .bg-fej h1{
